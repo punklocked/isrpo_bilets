@@ -1,0 +1,35 @@
+﻿<Page x:Class="nabrodov_shop.Pages.AdminPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:nabrodov_shop.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AdminPage">
+
+    <Grid Background="AliceBlue">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="70"/>
+        </Grid.RowDefinitions>
+
+        <WrapPanel Background="AliceBlue" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="{Binding Login, StringFormat='Добро пожаловать {0}'}" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30"/>
+            <Border Width="100" Height="50" CornerRadius="20" Background="Red" HorizontalAlignment="Right" Margin="300 0 0 0">
+                <Button Content="Выход" Background="Transparent" BorderBrush="Transparent" Foreground="White" FontSize="25" Click="Exit_Click"/>
+            </Border>
+        </WrapPanel>
+
+        <Frame Grid.Row="1" Name="AdminFrame">
+            
+        </Frame>
+
+        <Grid Grid.Row="2" Background="DarkSlateGray">
+            <Button Name="ProductBtn" Content="Товары" Width="150" Height="50" Margin="10" FontSize="20" HorizontalAlignment="Left" Click="Product_Click"/>
+            <Button Name="ClientBtn" Content="Клиенты" Width="150" Height="50" Margin="10" FontSize="20" HorizontalAlignment="Center" Click="Client_Click"/>
+            <Button Name="OrderBtn" Content="Заказы" Width="150" Height="50" Margin="10" FontSize="20" HorizontalAlignment="Right" Click="Order_Click"/>
+        </Grid>
+    </Grid>
+</Page>

@@ -1,0 +1,51 @@
+﻿<Page x:Class="TourApp_Nabrodov.AddHotel"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TourApp_Nabrodov"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AddHotel">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Grid.Column="0">
+            <TextBlock Text="Название" HorizontalAlignment="Center" VerticalAlignment="Center"
+                       FontSize="24px"/>
+        </Grid>
+        <Grid Grid.Row="1" Grid.Column="0">
+            <TextBlock Text="Кол-во звезд" HorizontalAlignment="Center" VerticalAlignment="Center"
+               FontSize="24px"/>
+        </Grid>
+        <Grid Grid.Row="2" Grid.Column="0">
+            <TextBlock Text="Страна" HorizontalAlignment="Center" VerticalAlignment="Center"
+               FontSize="24px"/>
+        </Grid>
+        <Grid Grid.Row="0" Grid.Column="1">
+            <TextBox Text="{Binding Name}" Height="50px" Margin="10px"
+                     x:Name="TextHotels"/>
+        </Grid>
+        <Grid Grid.Row="1" Grid.Column="1">
+            <TextBox Text="{Binding CountOfStar}" Height="50px" Margin="10px"
+                     x:Name="TextStars"/>
+        </Grid>
+        <Grid Grid.Row="2" Grid.Column="1">
+            <ComboBox SelectedItem="{Binding Countries}" Height="50px" Margin="10px"
+                      x:Name="ComboCountries" DisplayMemberPath="Name"/>
+        </Grid>
+        <Grid Grid.Row="3" Grid.Column="1">
+            <Button Content="Сохранить" Height="50px" Width="170px" FontSize="24px"
+                    Background="AliceBlue" Click="SaveBtn_Click"/>
+        </Grid>
+    </Grid>
+</Page>

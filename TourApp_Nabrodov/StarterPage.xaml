@@ -1,0 +1,37 @@
+﻿<Page x:Class="TourApp_Nabrodov.StarterPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TourApp_Nabrodov"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="StarterPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <TextBlock Text="Выберите на какую страницу перейти" VerticalAlignment="Center"
+                       HorizontalAlignment="Center" Margin="30" FontSize="24"/>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="400"/>
+                <ColumnDefinition Width="400"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Button Content="Страница туров" FontSize="24" HorizontalAlignment="Center"
+                        VerticalAlignment="Center" Height="80" Width="250"
+                        Click="TourNavigation_Clicked"/>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Button Content="Страница отелей" FontSize="24" HorizontalAlignment="Center"
+                        VerticalAlignment="Center" Height="80" Width="250"
+                        Click="HotelNavigation_Clicked"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>

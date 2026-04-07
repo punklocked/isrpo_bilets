@@ -1,0 +1,156 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: #fff;
+    transition: 0.3s;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+a:hover, button:hover {
+    opacity: 0.5;
+}
+
+.urist {
+    position: absolute;
+    width: 500px;
+    left: 48%;
+    bottom: 0;
+    z-index: 1;
+}
+
+main {
+    width: 100%;
+    height: 100vh;
+    padding: 20px 5%;
+    box-sizing: border-box;
+    background-image: url(img/back.png), linear-gradient(90deg, #000077, #ff0099);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.up, .content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 3em;
+    font-weight: 900;
+}
+
+.menu_nav, .menu_link {
+    display: flex;
+    gap: 20px;
+}
+
+.menu_nav a {
+    font-size: 2em;
+}
+
+.menu_link img {
+    width: 40px;
+    filter: hue-rotate(180deg) invert(1);
+}
+
+.content {
+    margin-top: 120px;
+}
+
+.content_text {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    gap: 40px;
+}
+
+.content_text span {
+    color: gray;
+}
+
+.content_slogan {
+    padding: 10px;
+    border: #fff 2px solid;
+    display: flex;
+    gap: 10px
+}
+
+.content_slogan::before {
+    content: '';
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    border-radius: 50%;
+}
+
+.content_title {
+    font-size: 4em;
+}
+
+.content_desc {
+    font-size: 2em;
+}
+
+.content_form {
+    width: 40%;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #fff;
+    border-radius: 30px;
+    z-index: 2;
+}
+
+.form_title {
+    color: black;
+    font-size: 2.7em;
+}
+
+.form_title span {
+    color: purple;
+}
+
+.form_item {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin-top: 60px;
+}
+
+.form_item input {
+    border: none;
+    font-size: 32px;
+    color: black;
+    border-bottom: 3px solid gray;
+    padding: 10px;
+}
+
+.form_btn {
+    font-size: 32px;
+    background-color: purple;
+    padding: 10px 30px;
+    border-radius: 20px 20px 0 20px;
+    margin: 50px 0 20px 0;
+}
+
+.lang {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.lang img {
+    width: 50px;
+    height: 50px;
+}

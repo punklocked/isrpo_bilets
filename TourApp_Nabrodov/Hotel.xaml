@@ -1,0 +1,42 @@
+﻿<Page x:Class="TourApp_Nabrodov.Hotel"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TourApp_Nabrodov"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Hotel" IsVisibleChanged="Page_IsVisibleChanged">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="377*"/>
+            <RowDefinition Height="73*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <DataGrid x:Name="DGridHotel" IsReadOnly="True" AutoGenerateColumns="False">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Название отеля" Binding="{Binding Name}" Width="*"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Кол-во звезд" Binding="{Binding CountOfStar}" Width="*"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Страна" Binding="{Binding Countries.Name}" Width="*"></DataGridTextColumn>
+                    <DataGridTemplateColumn Width="auto">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Content="Редактировать" Name="BtnEdit" Click="BtnEdit_Click"
+                                        FontSize="18px" Background="AliceBlue" Padding="5px"></Button>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Button Content="Добавить" HorizontalAlignment="Left" VerticalAlignment="Center"
+                    Padding="20px 8px" FontSize="18px" Margin="10px" Background="AliceBlue"
+                    Click="BtnAdd_Click"/>
+            <Button Content="Удалить" HorizontalAlignment="Right" VerticalAlignment="Center"
+                    Padding="20px 8px" FontSize="18px" Margin="10px" Background="AliceBlue"
+                    Click="BtnDelete_Click"/>
+        </Grid>
+    </Grid>
+</Page>

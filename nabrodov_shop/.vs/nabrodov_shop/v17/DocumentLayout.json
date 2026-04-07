@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|c:\\users\\328-2\\desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|solutionrelative:nabrodov_shop\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|c:\\users\\328-2\\desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|solutionrelative:nabrodov_shop\\model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|c:\\users\\328-2\\desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|solutionrelative:nabrodov_shop\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|c:\\users\\328-2\\desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|solutionrelative:nabrodov_shop\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|c:\\users\\328-2\\desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|solutionrelative:nabrodov_shop\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|c:\\users\\328-2\\desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\pages\\admin_pages\\orderedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|solutionrelative:nabrodov_shop\\pages\\admin_pages\\orderedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\pages\\clientpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|solutionrelative:nabrodov_shop\\pages\\clientpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\pages\\client_cart\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|solutionrelative:nabrodov_shop\\pages\\client_cart\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\pages\\admin_pages\\orderedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|solutionrelative:nabrodov_shop\\pages\\admin_pages\\orderedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\pages\\admin_pages\\productedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|solutionrelative:nabrodov_shop\\pages\\admin_pages\\productedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\pages\\admin_pages\\productedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|solutionrelative:nabrodov_shop\\pages\\admin_pages\\productedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\pages\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|solutionrelative:nabrodov_shop\\pages\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\pages\\clientpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|solutionrelative:nabrodov_shop\\pages\\clientpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\pages\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|solutionrelative:nabrodov_shop\\pages\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FC8D48-F87C-49B2-8623-22C1A3371065}|nabrodov_shop\\nabrodov_shop.csproj|solutionrelative:nabrodov_shop\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model1.tt",
+              "DocumentMoniker": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Model1.tt",
+              "RelativeDocumentMoniker": "nabrodov_shop\\Model1.tt",
+              "ToolTip": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Model1.tt",
+              "RelativeToolTip": "nabrodov_shop\\Model1.tt",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-07T10:19:18.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model1.edmx.diagram",
+              "DocumentMoniker": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Model1.edmx.diagram",
+              "RelativeDocumentMoniker": "nabrodov_shop\\Model1.edmx.diagram",
+              "ToolTip": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Model1.edmx.diagram",
+              "RelativeToolTip": "nabrodov_shop\\Model1.edmx.diagram",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-07T10:19:17.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Model1.Designer.cs",
+              "RelativeDocumentMoniker": "nabrodov_shop\\Model1.Designer.cs",
+              "ToolTip": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Model1.Designer.cs",
+              "RelativeToolTip": "nabrodov_shop\\Model1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T10:19:16.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "nabrodov_shop\\Model1.Context.tt",
+              "ToolTip": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Model1.Context.tt",
+              "RelativeToolTip": "nabrodov_shop\\Model1.Context.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-07T10:19:15.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\DB.cs",
+              "RelativeDocumentMoniker": "nabrodov_shop\\DB.cs",
+              "ToolTip": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\DB.cs",
+              "RelativeToolTip": "nabrodov_shop\\DB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T10:19:10.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderEdit.xaml",
+              "DocumentMoniker": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Pages\\Admin_Pages\\OrderEdit.xaml",
+              "RelativeDocumentMoniker": "nabrodov_shop\\Pages\\Admin_Pages\\OrderEdit.xaml",
+              "ToolTip": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Pages\\Admin_Pages\\OrderEdit.xaml",
+              "RelativeToolTip": "nabrodov_shop\\Pages\\Admin_Pages\\OrderEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-14T10:11:50.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderEdit.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Pages\\Admin_Pages\\OrderEdit.xaml.cs",
+              "RelativeDocumentMoniker": "nabrodov_shop\\Pages\\Admin_Pages\\OrderEdit.xaml.cs",
+              "ToolTip": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Pages\\Admin_Pages\\OrderEdit.xaml.cs",
+              "RelativeToolTip": "nabrodov_shop\\Pages\\Admin_Pages\\OrderEdit.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:28:40.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Pages\\ClientPage.xaml.cs",
+              "RelativeDocumentMoniker": "nabrodov_shop\\Pages\\ClientPage.xaml.cs",
+              "ToolTip": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Pages\\ClientPage.xaml.cs",
+              "RelativeToolTip": "nabrodov_shop\\Pages\\ClientPage.xaml.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAIwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:38:06.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Pages\\AdminPage.xaml.cs",
+              "RelativeDocumentMoniker": "nabrodov_shop\\Pages\\AdminPage.xaml.cs",
+              "ToolTip": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Pages\\AdminPage.xaml.cs",
+              "RelativeToolTip": "nabrodov_shop\\Pages\\AdminPage.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:52:12.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminPage.xaml",
+              "DocumentMoniker": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Pages\\AdminPage.xaml",
+              "RelativeDocumentMoniker": "nabrodov_shop\\Pages\\AdminPage.xaml",
+              "ToolTip": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Pages\\AdminPage.xaml",
+              "RelativeToolTip": "nabrodov_shop\\Pages\\AdminPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-14T07:51:11.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductEdit.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Pages\\Admin_Pages\\ProductEdit.xaml.cs",
+              "RelativeDocumentMoniker": "nabrodov_shop\\Pages\\Admin_Pages\\ProductEdit.xaml.cs",
+              "ToolTip": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Pages\\Admin_Pages\\ProductEdit.xaml.cs",
+              "RelativeToolTip": "nabrodov_shop\\Pages\\Admin_Pages\\ProductEdit.xaml.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAiwHYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:45:35.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductEdit.xaml",
+              "DocumentMoniker": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Pages\\Admin_Pages\\ProductEdit.xaml",
+              "RelativeDocumentMoniker": "nabrodov_shop\\Pages\\Admin_Pages\\ProductEdit.xaml",
+              "ToolTip": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Pages\\Admin_Pages\\ProductEdit.xaml",
+              "RelativeToolTip": "nabrodov_shop\\Pages\\Admin_Pages\\ProductEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-14T07:45:34.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientPage.xaml",
+              "DocumentMoniker": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Pages\\ClientPage.xaml",
+              "RelativeDocumentMoniker": "nabrodov_shop\\Pages\\ClientPage.xaml",
+              "ToolTip": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Pages\\ClientPage.xaml",
+              "RelativeToolTip": "nabrodov_shop\\Pages\\ClientPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-13T11:57:51.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Pages\\Client_Cart\\CartItem.cs",
+              "RelativeDocumentMoniker": "nabrodov_shop\\Pages\\Client_Cart\\CartItem.cs",
+              "ToolTip": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Pages\\Client_Cart\\CartItem.cs",
+              "RelativeToolTip": "nabrodov_shop\\Pages\\Client_Cart\\CartItem.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T08:42:59.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "nabrodov_shop\\Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\328-2\\Desktop\\nabrodov\\nabrodov_shop\\nabrodov_shop\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "nabrodov_shop\\Pages\\LoginPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T09:37:04.504Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
